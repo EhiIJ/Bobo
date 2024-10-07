@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  text-align: center;
+  background-color: #fff70a;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+
+img {
+  width: 400px;
+}
